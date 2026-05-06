@@ -1,0 +1,93 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ color:white;
+}
+
+ body{
+    background-color:black;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/070/259/247/small/a-man-running-in-the-dark-with-smoke-coming-from-his-mouth-free-photo.jpg);
+    background-repeat: no-reapeat;
+    background-size:cover;
+    background-position:center;
+ }
+.mydiv{
+
+}
+
+.mypre{
+    color:white;
+    text-align: left;
+font-size:80px;
+padding:140px;
+position: relative;
+z-index:10;
+background-color:black;
+margin:50px;
+}
+
+#logoimg{
+    height:600px;
+    padding:0px;
+    transform: translate(-15px, -500px);
+    z-index: 5;
+    position:relative;
+}
+
+#myp{
+    text-align: left;
+    font-size:20px;
+}
+
+.navbar{
+    background-color:black;
+    position:relative;
+    z-index:99;
+    width:100 vw;
+    height:90px;
+    text-decoration: none;
+}
+
+.myli{
+    color:white;
+    display: inline-block;
+}
+
+.mya{
+    text-decoration:none;
+    padding:6px;
+    font-size:40px;
+    border:solid white
+}
+
+#myimg{
+height:200px;
+position:relative;
+z-index:1;
+transform:translate(0px, -600px)
+}
+
+#myimg2{
+height: 600px;
+position:relative;
+z-index:1;
+transform:translate(500px, -900px);
+}
+
+#mybuttonstart{
+color:black;
+background-color:rgba(249, 237, 67, 0.929);
+font-size:50px;
+border: solid rgba(249, 237, 67, 0.929);
+border-radius:20px;
+padding:15px;
+position:relative;
+transform:translate(800px, -270px);
+z-index:16;
+cursor:pointer;
+}
+
+
+#mya{
+    color:black;
+    font-size:00px;
+}
