@@ -3,7 +3,7 @@
  color:white;
 }
 
- body{
+ #bo{
     background-color:black;
     background-image: url(https://static.vecteezy.com/system/resources/thumbnails/070/259/247/small/a-man-running-in-the-dark-with-smoke-coming-from-his-mouth-free-photo.jpg);
     background-repeat: no-reapeat;
@@ -91,3 +91,76 @@ cursor:pointer;
     color:black;
     font-size:00px;
 }
+
+#navbar2{
+    width:100 vw;
+    height:70px;
+    background-color:black;
+    text-decoration:none;
+    border:solid white;
+}
+
+#body2{
+    background-color:black;
+}
+
+.myli2{
+    text-decoration:none;
+    display:inline-block;
+    border: soild white;
+}
+
+.mya2{
+    text-decoration:none;
+    border:solid white;
+    border-radius:15px;
+    font-size:30px;
+    padding:15px;
+}
+
+#myh1{
+    text-align:center;
+    color:rgba(249, 237, 67, 0.874);
+
+}
+
+#mydivforinput{
+    border:solid white;
+    display:inline-block;
+    padding:30px;
+    font-size:70px;
+
+}
+
+#myinput{
+    font-size:70px;
+    color:black;
+}
+
+#myinput2{
+    font-size:70px;
+    color:black;
+}
+
+.container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#bmilabel{
+    color:white;
+}
+
+#mysubmin{
+    display:inline-block;
+    font-size:100px;
+    color:black;
+    background-color:black;
+    border:solid white;
+}
+
+#bmilabel{
+color:white;
+}
+
