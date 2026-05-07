@@ -1,6 +1,7 @@
 *{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  color:white;
+ text-background:black;
 
 }
 
@@ -183,7 +184,52 @@ font-size:100px;
     border-radius:15px;
     display:inline-block;
     padding:20px;
-    item-align:center;
+    align-items:center;
     margin:20px;
     justify-content:center;
+}
+
+#footerdiv{
+    width:100 vw;
+    height:200px;
+    background-color:rgb(18, 18, 18);
+    text-align:center;
+    padding:35px;
+}
+
+#footerp{
+    font-size:xx-large;
+}
+
+.myp67{
+    font-size:xx-large;
+text-align:center;
+}
+
+.planh1{
+    font-size:xx-large;
+    text-align:center;
+}
+
+#frontpagea{
+    border:solid white;
+    border-radius:15px;
+    color:white;
+    font-size:60px;
+    padding:15px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    align-items:center;
+}
+
+.myhe{
+    height:10px;
+    width:100vw;
+    color:white;
+    padding:10px;
+}
+
+#bmicalh1{
+    font-size:53px;
 }
