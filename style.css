@@ -152,15 +152,18 @@ cursor:pointer;
     color:white;
 }
 
-#mysubmin{
+#mysubmit{
     display:inline-block;
     font-size:100px;
-    color:black;
+    color:white;
     background-color:black;
     border:solid white;
+    padding:20px;
+    border-radius:15px;
 }
 
 #bmilabel{
 color:white;
+font-size:100px;
 }
 
