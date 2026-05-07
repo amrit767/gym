@@ -1,11 +1,12 @@
 *{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  color:white;
+
 }
 
  #bo{
     background-color:black;
-    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/070/259/247/small/a-man-running-in-the-dark-with-smoke-coming-from-his-mouth-free-photo.jpg);
+    background-image: url(https://images.unsplash.com/photo-1636850938951-1aa02df6393b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI3fHx8ZW58MHx8fHx8);
     background-repeat: no-reapeat;
     background-size:cover;
     background-position:center;
@@ -45,6 +46,7 @@ margin:50px;
     width:100 vw;
     height:90px;
     text-decoration: none;
+    position:sticky;
 }
 
 .myli{
@@ -98,10 +100,14 @@ cursor:pointer;
     background-color:black;
     text-decoration:none;
     border:solid white;
+    position: sticky;
 }
 
+
 #body2{
-    background-color:black;
+    background-image: url(https://images.unsplash.com/photo-1636850938951-1aa02df6393b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI3fHx8ZW58MHx8fHx8);
+    position:relative;
+    z-index:-1;
 }
 
 .myli2{
@@ -128,17 +134,18 @@ cursor:pointer;
     border:solid white;
     display:inline-block;
     padding:30px;
-    font-size:70px;
-
+    font-size:40px;
+    item-align: center;
+    justify-content:center;
 }
 
 #myinput{
-    font-size:70px;
+    font-size:40px;
     color:black;
 }
 
 #myinput2{
-    font-size:70px;
+    font-size:40px;
     color:black;
 }
 
@@ -154,7 +161,7 @@ cursor:pointer;
 
 #mysubmit{
     display:inline-block;
-    font-size:100px;
+    font-size:40px;
     color:white;
     background-color:black;
     border:solid white;
@@ -167,3 +174,6 @@ color:white;
 font-size:100px;
 }
 
+.mygymp{
+    font-size:30px;
+}
